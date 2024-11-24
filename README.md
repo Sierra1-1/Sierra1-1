@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python!
 - 💞️ I’m looking to learn Python for my projects.
 - 📫 How to reach me: qbert904@gmail.com
-- 😄 Pronouns: That's gay
 - ⚡ Fun fact: Surprise! I'm from Cuba, Everyone Has One Brain
 
 <!---
